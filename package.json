@@ -1,7 +1,7 @@
 {
   "name": "purpls-playlist-producer",
   "version": "1.0.0",
-  "description": "",
+  "description": "PPP - Using Discogs to make Spotify playlists, hopefully",
   "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && tsc",
